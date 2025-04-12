@@ -1,0 +1,215 @@
+
+
+@media only screen and (max-width: 320px) {
+
+  .submit-section{
+    width: 80%;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .svg-class{
+    background-color: hsl(259, 100%, 65%);
+    border-radius: 40em;
+    padding: 5%;
+    height: auto;
+    width: auto;
+    transition: .3s ease-in-out;
+  }
+  
+  .svg-class:hover{
+    background-color:hsl(0, 0%, 8%);
+    border-radius: 40em;
+    padding: 5%;
+    height: auto;
+    width: auto;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+  }
+  
+  }
+  
+  @media only screen and (min-width: 321px) and (max-width: 480px) {
+  
+  .submit-section{
+    width: 80%;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .svg-class{
+    background-color: hsl(259, 100%, 65%);
+    border-radius: 40em;
+    padding: 6%;
+    height: auto;
+    width: auto;
+    transition: .3s ease-in-out;
+  }
+  
+  .svg-class:hover{
+    background-color:hsl(0, 0%, 8%);
+    border-radius: 40em;
+    padding: 6%;
+    height: auto;
+    width: auto;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+  }
+  
+  }
+  
+  @media only screen and (min-width: 481px) and (max-width: 766px) {
+  
+  .submit-section{
+    width: 80%;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .svg-class{
+    background-color: hsl(259, 100%, 65%);
+    border-radius: 40em;
+    padding: 6%;
+    height: auto;
+    width: auto;
+    transition: .3s ease-in-out;
+  }
+  
+  .svg-class:hover{
+    background-color:hsl(0, 0%, 8%);
+    border-radius: 40em;
+    padding: 6%;
+    height: auto;
+    width: auto;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+  }
+  
+  }
+  
+  @media only screen and (min-width: 767px) and (max-width: 991px) {
+  .submit-section{
+    width: 80%;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .svg-class{
+    background-color: hsl(259, 100%, 65%);
+    border-radius: 40em;
+    padding: 4%;
+    height: auto;
+    width: auto;
+    transition: .3s ease-in-out;
+  }
+  
+  .svg-class:hover{
+    background-color:hsl(0, 0%, 8%);
+    border-radius: 40em;
+    padding: 4%;
+    height: auto;
+    width: auto;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+  }
+  
+  }
+  
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .submit-section{
+    width: 80%;
+    height: 15vh;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  }
+  
+  .svg-class{
+    background-color: hsl(259, 100%, 65%);
+    border-radius: 40em;
+    padding: 2%;
+    height: auto;
+    width: auto;
+    transition: .3s ease-in-out;
+  }
+  
+  .svg-class:hover{
+    background-color:hsl(0, 0%, 8%);
+    border-radius: 40em;
+    padding: 4%;
+    height: auto;
+    width: auto;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+  }
+  
+  }
+  
+  @media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  .submit-section{
+    width: 80%;
+    height: 15vh;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  }
+  
+  .svg-class{
+    background-color: hsl(259, 100%, 65%);
+    border-radius: 40em;
+    padding: 2%;
+    height: auto;
+    width: auto;
+    transition: .3s ease-in-out;
+  }
+  
+  .svg-class:hover{
+    background-color:hsl(0, 0%, 8%);
+    border-radius: 40em;
+    height: auto;
+    width: auto;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+  }
+  
+  }
+  
+  @media only screen and (min-width: 1400px) {
+  .submit-section{
+    width: 80%;
+    height: 15vh;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    font-size: 1.3vw;
+  }
+  
+  .svg-class{
+    background-color: hsl(259, 100%, 65%);
+    border-radius: 40em;
+    padding: 2%;
+    height: 12vh;
+    width: 5.5vw;
+    transition: .3s ease-in-out;
+    z-index: 2;
+  }
+  
+  .svg-class:hover{
+    background-color:hsl(0, 0%, 8%);
+    border-radius: 40em;
+    padding: 2%;
+    height: 12vh;
+    width: 5.5vw;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+  }
+  }
+  
